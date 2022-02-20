@@ -1,3 +1,5 @@
+import React from "react";
+import AboutUs from "./pages/AboutUs";
 
 function App() {
   return (
@@ -5,6 +7,7 @@ function App() {
         <h1>
             Portfolio Site 
         </h1>
+        <AboutUs />
     </div>
   );
 }
