@@ -4,9 +4,7 @@ import AboutUs from "./pages/AboutUs";
 function App() {
   return (
     <div className="App">
-        <h1>
-            Portfolio Site 
-        </h1>
+        <h1>Portfolio Site</h1>
         <AboutUs />
     </div>
   );
