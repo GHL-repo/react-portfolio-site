@@ -1,9 +1,10 @@
 import React from "react";
 import home1 from "../img/home1.png";
+import {About, Description, Image, Hide} from "../styles";
 
 const FaqSection = () => {
     return (
-        <div className="faq">
+        <About>
             <h2>    
                 Any Questions <span>FAQ</span>
             </h2>
@@ -28,7 +29,7 @@ const FaqSection = () => {
                     <p>Amet ipsum nesciunt corrupti odio adipisci Maxime eaque voluptas at repellendus laudantium perspiciatis eligendi perferendis? Vel voluptatem maxime quisquam nostrum nam modi. Voluptas asperiores labore tenetur repellat iusto Expedita asperiores. </p>
                 </div>
             </div>
-        </div>
+        </About>
     )
 
 };

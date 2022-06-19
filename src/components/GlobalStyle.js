@@ -10,9 +10,11 @@ const GlobalStyle = createGlobalStyle`
 
 body{
     background: #1b1b1b;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 button{
+    font-family: 'Ubuntu', sans-serif;
     font-weight: bold;
     font-size: 1.1 rem;
     cursor: pointer;
@@ -46,6 +48,7 @@ a{
 
 span{
     font-weight: bold;
+    color: #23d997; 
 }
 
 p{
