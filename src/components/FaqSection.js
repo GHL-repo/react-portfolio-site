@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import home1 from "../img/home1.png";
-import {About, Description, Image, Hide} from "../styles";
+import {About} from "../styles";
 
 const FaqSection = () => {
     return (
